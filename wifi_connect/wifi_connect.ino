@@ -12,7 +12,7 @@
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
 #define AIO_USERNAME    "Iotmadeeasy"
-#define AIO_KEY         "aio_FytU06kv1lRKSva9iPJhtpX40ngW"
+#define AIO_KEY         "xxxxxxxxxxxxxxxxxxxxx"
 //Variables
 int i = 0;
 int statusCode;
